@@ -66,3 +66,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 "# anf_back" 
+
+## Test ANF
+
+- 1-Correr comando `composer install`
+- 2-Correr comando `php artisan migrate` para ejecutar migrations
+- 3-correr el fichero `start.bat` 
+- 4-Correr comando de laravel `php artisan serve` para levantar el sevidor
