@@ -70,6 +70,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## Test ANF
 
 - 1-Correr comando `composer install`
-- 2-Correr comando `php artisan migrate` para ejecutar migrations
-- 3-correr el fichero `start.bat` 
-- 4-Correr comando de laravel `php artisan serve` para levantar el sevidor
+- 2-Ejecutar el `fichero jwt.bat`
+- 3-Correr comando `php artisan migrate` para ejecutar migrations
+- 4-correr el fichero `start.bat` 
+- 5-Correr comando de laravel `php artisan serve` para levantar el sevidor
